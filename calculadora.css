@@ -41,6 +41,7 @@
     padding: 5px;
     overflow-y: hidden;
     overflow-x: auto;
+    color: black;
 }
 ::-webkit-scrollbar{
     width: 5px;
